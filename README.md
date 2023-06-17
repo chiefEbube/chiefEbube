@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I am Ebube
 Hi! 👋<br>If you're looking for a professional frontend developer or just hoping to connect, you've come to the right place.
 
 
