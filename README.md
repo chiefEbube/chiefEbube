@@ -1,5 +1,5 @@
 # Hi! I am Ebube Anyanwu:
-If you're looking for a professional frontend developer or just hoping to connect, you've come to the right place.
+Software Developer
 
 
 ## 🌐 Socials:
