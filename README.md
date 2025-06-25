@@ -16,7 +16,7 @@
 
 ## 💻 Tech Stack
 
-#### Backend%23F7DF1E)
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
