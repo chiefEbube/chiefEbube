@@ -30,7 +30,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=white)
 ![wagmi](https://img.shields.io/badge/wagmi-%23000000.svg?style=for-the-badge)
 ![ethers.js](https://img.shields.io/badge/ethers.js-%23333333.svg?style=for-the-badge\&logo=ethereum\&logoColor=white)
 ![web3.js](https://img.shields.io/badge/web3.js-%23F16822.svg?style=for-the-badge\&logo=web3.js\&logoColor=white)
