@@ -22,8 +22,6 @@
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
 
----
-
 #### Databases & ORMs/ODMs
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
@@ -31,16 +29,14 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-800?style=for-the-badge\&logo=mongoose\&logoColor=white)
 
----
-
 #### Caching & Containers
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 
----
-
 #### Web3
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
+
+---
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -55,6 +51,7 @@
 ![ethers.js](https://img.shields.io/badge/ethers.js-%23333333.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![web3.js](https://img.shields.io/badge/web3.js-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 
+---
 
 #### Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
