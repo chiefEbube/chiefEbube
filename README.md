@@ -16,13 +16,15 @@
 
 ## 💻 Tech Stack
 
-### Backend
 
+## Backend
+
+#### Frameworks:
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
 
-#### Databases & ORMs/ODMs
+#### Databases & ORMs/ODMs:
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8B.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
@@ -38,7 +40,7 @@
 
 ---
 
-### Frontend
+## Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
